@@ -67,7 +67,7 @@ header {
                 color: white;
                 font-size: 16px;
                 transition: 0.3s;
-
+                cursor: pointer;
                 &:hover {
                     background-color: variaveis.$cor-secundaria;
                 }
